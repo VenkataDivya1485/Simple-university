@@ -11,6 +11,8 @@
 
 # Student name - Venkata Divya Sree Nallamothu
 
+change files -> commit to local local repository with message -> push to github repository
+
 1. after chaning file you to commit to local repository
 2. to commit changes from VSCODE IDE use the leftf icon ctrl+shift+G
 3. for each commit you need message
