@@ -7,4 +7,6 @@
 # design
 # implementation
 # test
+# outlook
 
+# Student name - Venkata Divya Sree Nallamothu
